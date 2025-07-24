@@ -88,7 +88,7 @@ plugins:
         enabled: true
         oauth:
             enabled: true
-            refreshToken: 1//03YvD3098CR9oCgYIARAAGAMSNwF-L9Ir_or02cyEqD1NcYB_r7gsWZz79WS2vC48-97MkKm29u0PmntFQtKH_aOJrqAKgrRgfkc
+            refreshToken: 
             skipInitialization: true
 sentry:
     dsn: ""
